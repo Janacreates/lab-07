@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 7 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Janapriya Prathap Gajalakshmi>`
-- **CCID:** `<prathapg>`
+- **Full Name:** `Janapriya Prathap Gajalakshmi`
+- **CCID:** `prathapg`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
